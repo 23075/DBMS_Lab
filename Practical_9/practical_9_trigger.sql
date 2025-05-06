@@ -1,5 +1,5 @@
 Example 1: BEFORE INSERT Trigger
-Automatically set a default balance when a new account is created.
+--Automatically set a default balance when a new account is created.
 CREATE OR REPLACE TRIGGER before_insert_accounts
 BEFORE INSERT ON Accounts
 FOR EACH ROW
