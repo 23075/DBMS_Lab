@@ -31,5 +31,5 @@ Develop proficiency in writing SQL queries and functions
 Write and execute PL/SQL procedures, functions, and triggers
 Explore database connectivity using ODBC
 
-📝 ## License
+## 📝 License
 This project is shared for academic and learning purposes.
