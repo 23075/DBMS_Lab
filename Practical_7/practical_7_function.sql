@@ -25,9 +25,10 @@ o	The remainder (MOD(num,2)) is stored at the beginning of binary_str to maintai
 o	The number is updated (TRUNC(num/2)) until it becomes 0.
 3.	Edge Case: 
 o	If n = 0, the function directly returns '0'.
+    
 
-How to Execute the Function
-Run the following SQL query to test the function:
+**How to Execute the Function**
+--Run the following SQL query to test the function:
 SELECT decimal_to_binary(10) FROM DUAL;
 Output:
 1010
